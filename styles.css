@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+#box{
+	width:300px;
+	height:500px;
+	background-color:grey;
+}
